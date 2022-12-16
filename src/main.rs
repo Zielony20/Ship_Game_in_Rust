@@ -563,8 +563,4 @@ fn main() {
 
 
 
-//file:///home/piotr/Pulpit/Rust/shipgame/target/doc/input/trait.FocusEvent.html#method.focus_args
-//file:///home/piotr/Pulpit/Rust/shipgame/target/doc/input/mouse/trait.MouseCursorEvent.html#tymethod.from_xy
-//file:///home/piotr/Pulpit/Rust/shipgame/target/doc/input/mouse/trait.MouseCursorEvent.html#tymethod.mouse_cursor
-//file:///home/piotr/Pulpit/Rust/shipgame/target/doc/input/mouse/trait.MouseCursorEvent.html            
-// }
+

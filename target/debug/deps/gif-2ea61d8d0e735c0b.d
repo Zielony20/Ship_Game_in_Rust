@@ -1,0 +1,13 @@
+/home/piotr/Ship_Game_in_Rust/target/debug/deps/gif-2ea61d8d0e735c0b.rmeta: /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/home/piotr/Ship_Game_in_Rust/target/debug/deps/libgif-2ea61d8d0e735c0b.rlib: /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/home/piotr/Ship_Game_in_Rust/target/debug/deps/gif-2ea61d8d0e735c0b.d: /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs:
+/home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs:
+/home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs:
+/home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs:
+/home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs:
+/home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs:
+/home/piotr/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs:
